@@ -1,0 +1,80 @@
+﻿  main.cpp
+F:\Projects To Keep\GAME2012_W13_Lecture\FirstExample\Shape.h(67,21): warning C4018: '<': signed/unsigned mismatch
+F:\Projects To Keep\GAME2012_W13_Lecture\FirstExample\Shape.h(79,21): warning C4018: '<': signed/unsigned mismatch
+F:\Projects To Keep\GAME2012_W13_Lecture\FirstExample\Shape.h(151,30): warning C4244: 'argument': conversion from 'int' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=GLfloat
+          ]
+F:\Projects To Keep\GAME2012_W13_Lecture\FirstExample\Shape.h(152,30): warning C4244: 'argument': conversion from 'int' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=GLfloat
+          ]
+F:\Projects To Keep\GAME2012_W13_Lecture\FirstExample\Shape.h(195,21): warning C4018: '<': signed/unsigned mismatch
+F:\Projects To Keep\GAME2012_W13_Lecture\FirstExample\Shape.h(360,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+F:\Projects To Keep\GAME2012_W13_Lecture\FirstExample\Shape.h(371,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+F:\Projects To Keep\GAME2012_W13_Lecture\FirstExample\Shape.h(412,21): warning C4018: '<': signed/unsigned mismatch
+F:\Projects To Keep\GAME2012_W13_Lecture\FirstExample\Shape.h(436,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+F:\Projects To Keep\GAME2012_W13_Lecture\FirstExample\Shape.h(462,21): warning C4018: '<': signed/unsigned mismatch
+F:\Projects To Keep\GAME2012_W13_Lecture\FirstExample\main.cpp(63,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\Projects To Keep\GAME2012_W13_Lecture\FirstExample\main.cpp(353,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\Projects To Keep\GAME2012_W13_Lecture\FirstExample\main.cpp(354,35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\Projects To Keep\GAME2012_W13_Lecture\FirstExample\main.cpp(355,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\Projects To Keep\GAME2012_W13_Lecture\FirstExample\main.cpp(356,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\Projects To Keep\GAME2012_W13_Lecture\FirstExample\main.cpp(358,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\Projects To Keep\GAME2012_W13_Lecture\FirstExample\main.cpp(359,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\Projects To Keep\GAME2012_W13_Lecture\FirstExample\main.cpp(360,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\Projects To Keep\GAME2012_W13_Lecture\FirstExample\main.cpp(434,16): warning C4305: '=': truncation from 'double' to 'float'
+F:\Projects To Keep\GAME2012_W13_Lecture\FirstExample\main.cpp(438,17): warning C4305: '=': truncation from 'double' to 'float'
+F:\Projects To Keep\GAME2012_W13_Lecture\FirstExample\main.cpp(1030,27): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+F:\Projects To Keep\GAME2012_W13_Lecture\FirstExample\main.cpp(1032,27): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+F:\Projects To Keep\GAME2012_W13_Lecture\FirstExample\main.cpp(1034,27): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+F:\Projects To Keep\GAME2012_W13_Lecture\FirstExample\main.cpp(1036,27): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+F:\Projects To Keep\GAME2012_W13_Lecture\FirstExample\main.cpp(1038,27): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+F:\Projects To Keep\GAME2012_W13_Lecture\FirstExample\main.cpp(1040,27): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  LoadShaders.cpp
+  LINK : F:\Projects To Keep\GAME2012_W13_Lecture\Debug\FirstExample.exe not found or not built by the last incremental link; performing full link
+LINK : warning LNK4098: defaultlib 'LIBCMTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+glew_static_vs2010_d.lib(glew.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'glew_static_vs2010_d.lib(glew.obj)' or at 'F:\Projects To Keep\GAME2012_W13_Lecture\Debug\vc100.pdb'; linking object as if no debug info
+freeglut_static_vs2010_d.lib(freeglut_callbacks.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'freeglut_static_vs2010_d.lib(freeglut_callbacks.obj)' or at 'F:\Projects To Keep\GAME2012_W13_Lecture\Debug\vc100.pdb'; linking object as if no debug info
+freeglut_static_vs2010_d.lib(freeglut_cursor.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'freeglut_static_vs2010_d.lib(freeglut_cursor.obj)' or at 'F:\Projects To Keep\GAME2012_W13_Lecture\Debug\vc100.pdb'; linking object as if no debug info
+freeglut_static_vs2010_d.lib(freeglut_display.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'freeglut_static_vs2010_d.lib(freeglut_display.obj)' or at 'F:\Projects To Keep\GAME2012_W13_Lecture\Debug\vc100.pdb'; linking object as if no debug info
+freeglut_static_vs2010_d.lib(freeglut_font.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'freeglut_static_vs2010_d.lib(freeglut_font.obj)' or at 'F:\Projects To Keep\GAME2012_W13_Lecture\Debug\vc100.pdb'; linking object as if no debug info
+freeglut_static_vs2010_d.lib(freeglut_font_data.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'freeglut_static_vs2010_d.lib(freeglut_font_data.obj)' or at 'F:\Projects To Keep\GAME2012_W13_Lecture\Debug\vc100.pdb'; linking object as if no debug info
+freeglut_static_vs2010_d.lib(freeglut_init.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'freeglut_static_vs2010_d.lib(freeglut_init.obj)' or at 'F:\Projects To Keep\GAME2012_W13_Lecture\Debug\vc100.pdb'; linking object as if no debug info
+freeglut_static_vs2010_d.lib(freeglut_input_devices.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'freeglut_static_vs2010_d.lib(freeglut_input_devices.obj)' or at 'F:\Projects To Keep\GAME2012_W13_Lecture\Debug\vc100.pdb'; linking object as if no debug info
+freeglut_static_vs2010_d.lib(freeglut_joystick.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'freeglut_static_vs2010_d.lib(freeglut_joystick.obj)' or at 'F:\Projects To Keep\GAME2012_W13_Lecture\Debug\vc100.pdb'; linking object as if no debug info
+freeglut_static_vs2010_d.lib(freeglut_main.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'freeglut_static_vs2010_d.lib(freeglut_main.obj)' or at 'F:\Projects To Keep\GAME2012_W13_Lecture\Debug\vc100.pdb'; linking object as if no debug info
+freeglut_static_vs2010_d.lib(freeglut_menu.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'freeglut_static_vs2010_d.lib(freeglut_menu.obj)' or at 'F:\Projects To Keep\GAME2012_W13_Lecture\Debug\vc100.pdb'; linking object as if no debug info
+freeglut_static_vs2010_d.lib(freeglut_spaceball.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'freeglut_static_vs2010_d.lib(freeglut_spaceball.obj)' or at 'F:\Projects To Keep\GAME2012_W13_Lecture\Debug\vc100.pdb'; linking object as if no debug info
+freeglut_static_vs2010_d.lib(freeglut_state.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'freeglut_static_vs2010_d.lib(freeglut_state.obj)' or at 'F:\Projects To Keep\GAME2012_W13_Lecture\Debug\vc100.pdb'; linking object as if no debug info
+freeglut_static_vs2010_d.lib(freeglut_stroke_mono_roman.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'freeglut_static_vs2010_d.lib(freeglut_stroke_mono_roman.obj)' or at 'F:\Projects To Keep\GAME2012_W13_Lecture\Debug\vc100.pdb'; linking object as if no debug info
+freeglut_static_vs2010_d.lib(freeglut_stroke_roman.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'freeglut_static_vs2010_d.lib(freeglut_stroke_roman.obj)' or at 'F:\Projects To Keep\GAME2012_W13_Lecture\Debug\vc100.pdb'; linking object as if no debug info
+freeglut_static_vs2010_d.lib(freeglut_structure.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'freeglut_static_vs2010_d.lib(freeglut_structure.obj)' or at 'F:\Projects To Keep\GAME2012_W13_Lecture\Debug\vc100.pdb'; linking object as if no debug info
+freeglut_static_vs2010_d.lib(freeglut_window.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'freeglut_static_vs2010_d.lib(freeglut_window.obj)' or at 'F:\Projects To Keep\GAME2012_W13_Lecture\Debug\vc100.pdb'; linking object as if no debug info
+  FirstExample.vcxproj -> F:\Projects To Keep\GAME2012_W13_Lecture\Debug\FirstExample.exe
